@@ -75,6 +75,13 @@ npx expo start
 6. Acceder desde un dispositivo físico o emulador.
 (Yo lo realice con la app de expo **(Expo Go)** la cual permite visualizar de una manera mas intuitiva la aplicación desarrollada)
 
+8. Ingreso a la aplicación movil
+   Utilice las siguientes credenciales para ingresar a la app, tenga en cuenta que se debieron poblar los datos inciales descritos en el documento README del Backend.
+  ```
+  Username: andrescolonia / Password: 1234 [ADMIN]
+  Username: felipealdana / Password: 1234 [USER]
+  ```
+
 ## Notas Importantes
 
 - Este frontend móvil consume un backend desarrollado en Java con Spring Boot.
